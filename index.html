@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Gringo Restaurante</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="overlay"></div>
+    <img src="images/facade.jpg" alt="Gringo Restaurante" class="hero-img">
+    <div class="header-content">
+      <img src="images/logo.png" alt="Logo Gringo" class="logo">
+      <h1>Gringo</h1>
+      <p class="subtitle">Parrilla • Pastas • Vinos</p>
+      <a href="#menu" class="btn primary">Ver Menú</a>
+    </div>
+  </header>
+
+  <main>
+    <section id="menu" class="menu-section container">
+      <h2>Menú</h2>
+      <div id="menu-container" class="menu-grid"></div>
+      <div class="menu-actions">
+        <button id="edit-json" class="btn">Editar menú (local)</button>
+        <a id="download-json" class="btn secondary" download="menu.json">Descargar menu.json</a>
+      </div>
+    </section>
+
+    <section id="vinos" class="container wines-section">
+      <h2>Vinos destacados</h2>
+      <div id="wines-container" class="wines-grid"></div>
+    </section>
+
+    <section id="contacto" class="container contact-section">
+      <h2>Contacto</h2>
+      <p>Dirección: Tu dirección aquí</p>
+      <p>Teléfono: +54 9 ...</p>
+      <form id="contact-form" class="contact-form">
+        <input type="text" placeholder="Nombre" name="nombre" required>
+        <input type="tel" placeholder="Teléfono" name="telefono">
+        <textarea placeholder="Mensaje" name="mensaje" required></textarea>
+        <button class="btn primary" type="submit">Enviar</button>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <p>© <span id="year"></span> Gringo Restaurante — Hecho con fuego y carne 🔥</p>
+  </footer>
+
+  <!-- Modal editor JSON -->
+  <div id="editor-modal" class="modal">
+    <div class="modal-content">
+      <h3>Editor de menu.json</h3>
+      <textarea id="json-editor" spellcheck="false"></textarea>
+      <div class="modal-actions">
+        <button id="save-json" class="btn primary">Guardar y aplicar</button>
+        <button id="close-editor" class="btn">Cerrar</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
