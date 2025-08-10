@@ -3,12 +3,479 @@
     {
       "name": "Entradas",
       "items": [
-        { "name": "Empanada Carne", "price": 2500 },
-        { "name": "Empanada Pollo", "price": 2500 }
+        {
+          "name": "Empanada Carne",
+          "price": ""
+        },
+        {
+          "name": "Empanada Pollo",
+          "price": ""
+        },
+        {
+          "name": "Empanada Jamón y Queso",
+          "price": ""
+        },
+        {
+          "name": "Picada GRINGO (salame, jamón, quesos, aceitunas, milanesa, fritas, untables, lengua a la vinagreta, escabeche de verduras)",
+          "price": ""
+        },
+        {
+          "name": "Picada simple (salame, aceitunas, queso)",
+          "price": ""
+        },
+        {
+          "name": "Picada",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "name": "Pastas Caseras",
+      "items": [
+        {
+          "name": "Tallarines",
+          "price": ""
+        },
+        {
+          "name": "Ñoquis",
+          "price": ""
+        },
+        {
+          "name": "Canelones Verdura",
+          "price": ""
+        },
+        {
+          "name": "Canelones Choclo",
+          "price": ""
+        },
+        {
+          "name": "Ravioles Ricota",
+          "price": ""
+        },
+        {
+          "name": "Ravioles Verdura",
+          "price": ""
+        },
+        {
+          "name": "Ravioles Ricota y Queso",
+          "price": ""
+        },
+        {
+          "name": "Ravioles Calabaza",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "name": "Salsas",
+      "items": [
+        {
+          "name": "Roja",
+          "price": ""
+        },
+        {
+          "name": "Blanca",
+          "price": ""
+        },
+        {
+          "name": "Mixta",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "name": "Parrillada",
+      "items": [
+        {
+          "name": "Parrillada Completa (carnes, chorizo, achuras)",
+          "price": ""
+        },
+        {
+          "name": "Tiras de Asado",
+          "price": ""
+        },
+        {
+          "name": "Sorrentinos",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "name": "Carnes",
+      "items": [
+        {
+          "name": "Milanesa",
+          "price": ""
+        },
+        {
+          "name": "Suprema",
+          "price": ""
+        },
+        {
+          "name": "Napolitana",
+          "price": ""
+        },
+        {
+          "name": "Lomo",
+          "price": ""
+        },
+        {
+          "name": "Entrecot",
+          "price": ""
+        },
+        {
+          "name": "Bife de chorizo",
+          "price": ""
+        },
+        {
+          "name": "Pollo",
+          "price": ""
+        },
+        {
+          "name": "Bondiola de cerdo",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "name": "Salsas para Carnes",
+      "items": [
+        {
+          "name": "A la plancha",
+          "price": ""
+        },
+        {
+          "name": "A la crema",
+          "price": ""
+        },
+        {
+          "name": "Al limón",
+          "price": ""
+        },
+        {
+          "name": "Al roquefort",
+          "price": ""
+        },
+        {
+          "name": "Al verdeo",
+          "price": ""
+        },
+        {
+          "name": "Al champignon",
+          "price": ""
+        },
+        {
+          "name": "A la pimienta",
+          "price": ""
+        },
+        {
+          "name": "Agridulce",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "name": "Guarniciones",
+      "items": [
+        {
+          "name": "Puré (papa/calabaza)",
+          "price": ""
+        },
+        {
+          "name": "Fritas (papa/zanahoria)",
+          "price": ""
+        },
+        {
+          "name": "Ensalada mixta (tomate, lechuga, cebolla)",
+          "price": ""
+        },
+        {
+          "name": "Zanahoria y huevo",
+          "price": ""
+        },
+        {
+          "name": "Rúcula y parmesano",
+          "price": ""
+        },
+        {
+          "name": "Waldorf",
+          "price": ""
+        },
+        {
+          "name": "A elección",
+          "price": ""
+        },
+        {
+          "name": "Tortilla de papa",
+          "price": ""
+        },
+        {
+          "name": "Omelette Jamón y Queso",
+          "price": ""
+        },
+        {
+          "name": "Huevos duros",
+          "price": ""
+        },
+        {
+          "name": "Huevos fritos",
+          "price": ""
+        },
+        {
+          "name": "Huevos revueltos",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "name": "Sandwiches",
+      "items": [
+        {
+          "name": "Sandwich de milanesa (jamón, queso, lechuga, tomate, huevo)",
+          "price": ""
+        },
+        {
+          "name": "Lomito (jamón, queso, lechuga, tomate, huevo)",
+          "price": ""
+        },
+        {
+          "name": "Sandwich de miga cocido y queso",
+          "price": ""
+        },
+        {
+          "name": "Sandwich de miga crudo y queso",
+          "price": ""
+        },
+        {
+          "name": "Sandwich primavera",
+          "price": ""
+        },
+        {
+          "name": "Tostado",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "name": "Postres",
+      "items": [
+        {
+          "name": "Tarta del día",
+          "price": ""
+        },
+        {
+          "name": "Tiramisú",
+          "price": ""
+        },
+        {
+          "name": "Flan",
+          "price": ""
+        },
+        {
+          "name": "Budín de pan",
+          "price": ""
+        },
+        {
+          "name": "Vigilante",
+          "price": ""
+        },
+        {
+          "name": "Ensalada de fruta",
+          "price": ""
+        },
+        {
+          "name": "Peras al vino",
+          "price": ""
+        },
+        {
+          "name": "Helado (bocha/embasados)",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "name": "Cafetería",
+      "items": [
+        {
+          "name": "Café",
+          "price": ""
+        },
+        {
+          "name": "Cortado",
+          "price": ""
+        },
+        {
+          "name": "Bombón",
+          "price": ""
+        },
+        {
+          "name": "Submarino",
+          "price": ""
+        },
+        {
+          "name": "Té",
+          "price": ""
+        }
+      ]
+    },
+    {
+      "name": "Cervezas y Bebidas",
+      "items": [
+        {
+          "name": "Schneider Botella",
+          "price": ""
+        },
+        {
+          "name": "Schneider Lata 473cc",
+          "price": ""
+        },
+        {
+          "name": "Miller Botella",
+          "price": ""
+        },
+        {
+          "name": "Miller Lata 473cc",
+          "price": ""
+        },
+        {
+          "name": "Heineken Botella",
+          "price": ""
+        },
+        {
+          "name": "Heineken Lata 473cc",
+          "price": ""
+        },
+        {
+          "name": "Agua Mineral 1 1/2lts",
+          "price": ""
+        },
+        {
+          "name": "Agua Mineral 600ml",
+          "price": ""
+        },
+        {
+          "name": "Agua saborizada 1 1/2lts",
+          "price": ""
+        },
+        {
+          "name": "Agua saborizada 600ml",
+          "price": ""
+        },
+        {
+          "name": "Agua con gas",
+          "price": ""
+        },
+        {
+          "name": "Coca Cola",
+          "price": ""
+        },
+        {
+          "name": "Coca Cola Zero",
+          "price": ""
+        },
+        {
+          "name": "Sprite",
+          "price": ""
+        },
+        {
+          "name": "Fanta",
+          "price": ""
+        }
       ]
     }
   ],
   "wines": [
-    { "name": "Don Valentín Lacrado - Blanco", "price": 3200 }
+    {
+      "name": "Don Valentín Lacrado Blanco",
+      "price": ""
+    },
+    {
+      "name": "Don Valentín Lacrado Tinto",
+      "price": ""
+    },
+    {
+      "name": "Los Árboles Malbec",
+      "price": ""
+    },
+    {
+      "name": "Los Árboles Cabernet Sauvignon",
+      "price": ""
+    },
+    {
+      "name": "Navarro Correa Malbec",
+      "price": ""
+    },
+    {
+      "name": "Chacabuco Chenin dulce",
+      "price": ""
+    },
+    {
+      "name": "Chacabuco Malbec",
+      "price": ""
+    },
+    {
+      "name": "Los Haroldos Estate Malbec",
+      "price": ""
+    },
+    {
+      "name": "Los Haroldos Estate Chardonnay",
+      "price": ""
+    },
+    {
+      "name": "Estancia Mendoza Merlot - Malbec",
+      "price": ""
+    },
+    {
+      "name": "Estancia Mendoza Chardonnay",
+      "price": ""
+    },
+    {
+      "name": "Latitud 33 Chardonnay",
+      "price": ""
+    },
+    {
+      "name": "Latitud 33 Malbec",
+      "price": ""
+    },
+    {
+      "name": "Rutini Cabernet - Malbec",
+      "price": ""
+    },
+    {
+      "name": "Rutini Chardonnay",
+      "price": ""
+    },
+    {
+      "name": "Alaris Malbec",
+      "price": ""
+    },
+    {
+      "name": "Trumpeter Malbec",
+      "price": ""
+    },
+    {
+      "name": "Trumpeter Cabernet",
+      "price": ""
+    },
+    {
+      "name": "Trumpeter Malbec 375ml",
+      "price": ""
+    },
+    {
+      "name": "Alma Mora Chardonnay",
+      "price": ""
+    },
+    {
+      "name": "Alma Mora Malbec",
+      "price": ""
+    },
+    {
+      "name": "Elemento Malbec",
+      "price": ""
+    },
+    {
+      "name": "Finca Las Moras Malbec",
+      "price": ""
+    }
   ]
 }
