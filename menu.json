@@ -3,8 +3,8 @@
     {
       "name": "Entradas",
       "items": [
-        { "name": "Empanada Carne", "price": 250 },
-        { "name": "Empanada Pollo", "price": 250 }
+        { "name": "Empanada Carne", "price": 2500 },
+        { "name": "Empanada Pollo", "price": 2500 }
       ]
     }
   ],
