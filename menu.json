@@ -5,23 +5,23 @@
       "items": [
         {
           "name": "Empanada Carne",
-          "price": ""
+          "price": "1500"
         },
         {
           "name": "Empanada Pollo",
-          "price": ""
+          "price": "1500"
         },
         {
           "name": "Empanada Jamón y Queso",
-          "price": ""
+          "price": "1500"
         },
         {
           "name": "Picada GRINGO (salame, jamón, quesos, aceitunas, milanesa, fritas, untables, lengua a la vinagreta, escabeche de verduras)",
-          "price": ""
+          "price": "20000"
         },
         {
           "name": "Picada simple (salame, aceitunas, queso)",
-          "price": ""
+          "price": "10000"
         },
         {
           "name": "Picada",
@@ -34,35 +34,35 @@
       "items": [
         {
           "name": "Tallarines",
-          "price": ""
+          "price": "9000"
         },
         {
           "name": "Ñoquis",
-          "price": ""
+          "price": "10000"
         },
         {
           "name": "Canelones Verdura",
-          "price": ""
+          "price": "12000"
         },
         {
           "name": "Canelones Choclo",
-          "price": ""
+          "price": "12000"
         },
         {
           "name": "Ravioles Ricota",
-          "price": ""
+          "price": "12000"
         },
         {
           "name": "Ravioles Verdura",
-          "price": ""
+          "price": "12000"
         },
         {
           "name": "Ravioles Ricota y Queso",
-          "price": ""
+          "price": "12000"
         },
         {
           "name": "Ravioles Calabaza",
-          "price": ""
+          "price": "12000"
         }
       ]
     },
@@ -71,15 +71,15 @@
       "items": [
         {
           "name": "Roja",
-          "price": ""
+          "price": "2000"
         },
         {
           "name": "Blanca",
-          "price": ""
+          "price": "2000"
         },
         {
           "name": "Mixta",
-          "price": ""
+          "price": "2000"
         }
       ]
     },
@@ -88,15 +88,15 @@
       "items": [
         {
           "name": "Parrillada Completa (carnes, chorizo, achuras)",
-          "price": ""
+          "price": "22000"
         },
         {
           "name": "Tiras de Asado",
-          "price": ""
+          "price": "15000"
         },
         {
           "name": "Sorrentinos",
-          "price": ""
+          "price": "13000"
         }
       ]
     },
@@ -105,35 +105,35 @@
       "items": [
         {
           "name": "Milanesa",
-          "price": ""
+          "price": "5000"
         },
         {
           "name": "Suprema",
-          "price": ""
+          "price": "8000"
         },
         {
           "name": "Napolitana",
-          "price": ""
+          "price": "8000"
         },
         {
           "name": "Lomo",
-          "price": ""
+          "price": "12000"
         },
         {
           "name": "Entrecot",
-          "price": ""
+          "price": "15000"
         },
         {
           "name": "Bife de chorizo",
-          "price": ""
+          "price": "15000"
         },
         {
           "name": "Pollo",
-          "price": ""
+          "price": "7000"
         },
         {
           "name": "Bondiola de cerdo",
-          "price": ""
+          "price": "15000"
         }
       ]
     },
@@ -146,31 +146,31 @@
         },
         {
           "name": "A la crema",
-          "price": ""
+          "price": "3000"
         },
         {
           "name": "Al limón",
-          "price": ""
+          "price": "3000"
         },
         {
           "name": "Al roquefort",
-          "price": ""
+          "price": "4000"
         },
         {
           "name": "Al verdeo",
-          "price": ""
+          "price": "3000"
         },
         {
           "name": "Al champignon",
-          "price": ""
+          "price": "4000"
         },
         {
           "name": "A la pimienta",
-          "price": ""
+          "price": "3000"
         },
         {
           "name": "Agridulce",
-          "price": ""
+          "price": "3000"
         }
       ]
     },
@@ -179,27 +179,27 @@
       "items": [
         {
           "name": "Puré (papa/calabaza)",
-          "price": ""
+          "price": "3000"
         },
         {
           "name": "Fritas (papa/zanahoria)",
-          "price": ""
+          "price": "3000"
         },
         {
           "name": "Ensalada mixta (tomate, lechuga, cebolla)",
-          "price": ""
+          "price": "4000"
         },
         {
           "name": "Zanahoria y huevo",
-          "price": ""
+          "price": "4000"
         },
         {
           "name": "Rúcula y parmesano",
-          "price": ""
+          "price": "6000"
         },
         {
           "name": "Waldorf",
-          "price": ""
+          "price": "6000"
         },
         {
           "name": "A elección",
@@ -207,23 +207,23 @@
         },
         {
           "name": "Tortilla de papa",
-          "price": ""
+          "price": "5000"
         },
         {
           "name": "Omelette Jamón y Queso",
-          "price": ""
+          "price": "5000"
         },
         {
           "name": "Huevos duros",
-          "price": ""
+          "price": "1000"
         },
         {
           "name": "Huevos fritos",
-          "price": ""
+          "price": "1000"
         },
         {
           "name": "Huevos revueltos",
-          "price": ""
+          "price": "1000"
         }
       ]
     },
@@ -232,27 +232,27 @@
       "items": [
         {
           "name": "Sandwich de milanesa (jamón, queso, lechuga, tomate, huevo)",
-          "price": ""
+          "price": "8000"
         },
         {
           "name": "Lomito (jamón, queso, lechuga, tomate, huevo)",
-          "price": ""
+          "price": "10000"
         },
         {
           "name": "Sandwich de miga cocido y queso",
-          "price": ""
+          "price": "4000"
         },
         {
           "name": "Sandwich de miga crudo y queso",
-          "price": ""
+          "price": "6000"
         },
         {
           "name": "Sandwich primavera",
-          "price": ""
+          "price": "6000"
         },
         {
           "name": "Tostado",
-          "price": ""
+          "price": "5000"
         }
       ]
     },
@@ -261,19 +261,19 @@
       "items": [
         {
           "name": "Tarta del día",
-          "price": ""
+          "price": "4000"
         },
         {
           "name": "Tiramisú",
-          "price": ""
+          "price": "5000"
         },
         {
           "name": "Flan",
-          "price": ""
+          "price": "3000"
         },
         {
           "name": "Budín de pan",
-          "price": ""
+          "price": "3000"
         },
         {
           "name": "Vigilante",
@@ -281,15 +281,15 @@
         },
         {
           "name": "Ensalada de fruta",
-          "price": ""
+          "price": "3000"
         },
         {
           "name": "Peras al vino",
-          "price": ""
+          "price": "4000"
         },
         {
           "name": "Helado (bocha/embasados)",
-          "price": ""
+          "price": "3000/4000"
         }
       ]
     },
@@ -387,95 +387,95 @@
   "wines": [
     {
       "name": "Don Valentín Lacrado Blanco",
-      "price": ""
+      "price": "7000"
     },
     {
       "name": "Don Valentín Lacrado Tinto",
-      "price": ""
+      "price": "7000"
     },
     {
       "name": "Los Árboles Malbec",
-      "price": ""
+      "price": "8000"
     },
     {
       "name": "Los Árboles Cabernet Sauvignon",
-      "price": ""
+      "price": "8000"
     },
     {
       "name": "Navarro Correa Malbec",
-      "price": ""
+      "price": "12000"
     },
     {
       "name": "Chacabuco Chenin dulce",
-      "price": ""
+      "price": "8000"
     },
     {
       "name": "Chacabuco Malbec",
-      "price": ""
+      "price": "7000"
     },
     {
       "name": "Los Haroldos Estate Malbec",
-      "price": ""
+      "price": "10000"
     },
     {
       "name": "Los Haroldos Estate Chardonnay",
-      "price": ""
+      "price": "10000"
     },
     {
       "name": "Estancia Mendoza Merlot - Malbec",
-      "price": ""
+      "price": "6000"
     },
     {
       "name": "Estancia Mendoza Chardonnay",
-      "price": ""
+      "price": "6000"
     },
     {
       "name": "Latitud 33 Chardonnay",
-      "price": ""
+      "price": "10000"
     },
     {
       "name": "Latitud 33 Malbec",
-      "price": ""
+      "price": "10000"
     },
     {
       "name": "Rutini Cabernet - Malbec",
-      "price": ""
+      "price": "24000"
     },
     {
       "name": "Rutini Chardonnay",
-      "price": ""
+      "price": "40000"
     },
     {
       "name": "Alaris Malbec",
-      "price": ""
+      "price": "7000"
     },
     {
       "name": "Trumpeter Malbec",
-      "price": ""
+      "price": "12000"
     },
     {
       "name": "Trumpeter Cabernet",
-      "price": ""
+      "price": "12000"
     },
     {
       "name": "Trumpeter Malbec 375ml",
-      "price": ""
+      "price": "9000"
     },
     {
       "name": "Alma Mora Chardonnay",
-      "price": ""
+      "price": "10000"
     },
     {
       "name": "Alma Mora Malbec",
-      "price": ""
+      "price": "10000"
     },
     {
       "name": "Elemento Malbec",
-      "price": ""
+      "price": "9000"
     },
     {
       "name": "Finca Las Moras Malbec",
-      "price": ""
+      "price": "7000"
     }
   ]
 }
