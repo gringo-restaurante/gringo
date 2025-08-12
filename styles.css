@@ -47,7 +47,7 @@ footer{padding:18px;text-align:center;color:#777}
 }
 /* ----- Header con fachada y logo centrado ----- */
 header.hero {
-  background-image: url('fachada.jpg'); /* nombre de tu foto */
+  background-image: url('fachada.jpg,jpeg'); /* nombre de tu foto */
   background-size: cover;
   background-position: center;
   height: 360px; /* podés ajustarlo: 300-420px */
