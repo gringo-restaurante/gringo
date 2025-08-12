@@ -1,3 +1,4 @@
+
 :root{
   --bg:#0f0f0f;
   --card:#141414;
@@ -44,46 +45,4 @@ footer{padding:18px;text-align:center;color:#777}
   .hero{height:320px}
   .header-content h1{font-size:30px}
   .contact-form{grid-template-columns:1fr}
-}
-/* ----- Header con fachada y logo centrado ----- */
-header.hero {
-  background-image: url('fachada.jpg.jpeg'); /* nombre de tu foto */
-  background-size: cover;
-  background-position: center;
-  height: 360px; /* podés ajustarlo: 300-420px */
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  position: relative;
-}
-
-/* Capa oscura sobre la foto para que el logo resalte */
-header.hero .overlay {
-  position: absolute;
-  inset: 0; /* top:0; right:0; bottom:0; left:0; */
-  background: rgba(0,0,0,0.45); /* oscuridad; bajá el 0.45 si querés menos oscuro */
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-/* Logo centrado y por encima de la capa */
-#logo {
-  max-width: 320px;
-  width: 80%;
-  height: auto;
-  z-index: 2; /* que quede arriba de la overlay */
-}
-
-/* Si tenés texto en el header, asegurar legibilidad */
-header.hero .overlay h1,
-header.hero .overlay p {
-  color: #fff;
-  text-shadow: 0 2px 6px rgba(0,0,0,0.7);
-}
-
-/* Responsivo: ajustar tamaños en móviles */
-@media (max-width: 600px) {
-  header.hero { height: 260px; }
-  #logo { max-width: 220px; }
 }
